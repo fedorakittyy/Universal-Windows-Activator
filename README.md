@@ -1,5 +1,5 @@
 This program is very simple to use by anyone, it activates windows within seconds and on any version you may be on!
-if you need any help or want to ask questions you may contact my discord: fedoralovesu,
+if you need any help or want to ask questions you may contact my discord: fedoralovesu.
 please give this a star if you enjoyed it!
 
 installation:
